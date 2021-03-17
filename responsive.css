@@ -1,0 +1,428 @@
+@media (max-width:1370px){
+    .header-bio {
+        margin-right: 20px;
+    }
+    .header-info p {
+        margin-right: 92px;
+        font-size: 45px;
+    }
+    .service-item {
+        margin-top: 60px;
+        padding: 0 20px;
+    }
+}
+
+@media (max-width:1240px){
+    .banner-section {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+    .header-bio {
+        margin-top: 137px;
+        margin-right: -57px;
+    }
+    .header-name p {
+        margin-right: 278px;
+        font-size: 20px;
+    }
+    .header-info p {
+        margin-right: 145px;
+        font-size: 39px;
+    }
+    .header-info span {
+        margin-right: 343px;
+        font-size: 40px;
+    }
+    .primary-menu ul {
+        padding: 0px 48px;
+    }
+    .section-title {
+        margin: 92px 0;
+    }
+    .s-content p {
+        font-size: 16px;
+        line-height: 1.6em;
+        font-weight: 100;
+    }
+    .s-logo-1 span {
+        margin-left: 102px;
+    }
+    .service-box:hover  .s-logo-1 span{
+        margin-left: 102px;
+    }
+    
+}
+
+
+@media (max-width:1050px){
+    .primary-menu ul li a {
+        font-size: 15px;
+    }
+    .primary-menu ul {
+        padding:0 22px;
+    }
+    .section-title {
+        margin: 10px 0;
+    }
+
+}
+
+
+@media (max-width:992px){
+    .primary-menu ul {
+        padding:0 5px;
+    }
+    .primary-menu ul li ul {
+        left: -21px;
+    }
+    .header-bio {
+        margin-top: 117px;
+        margin-right: -122px;
+    }
+    .header-name p {
+        margin-right: 315px;
+        font-size: 17px;
+    }
+    .header-info p {
+        margin-right: 192px;
+        font-size: 34px;
+    }
+    .header-info span {
+        margin-right: 350px;
+        font-size: 38px;
+    }
+    .header-slogan p {
+        margin-right: 264px;
+        font-size: 18px;
+    }
+    .service-section {
+        padding-top: 20px;
+    }
+    .banner-section {
+        background-color: #ddd;
+    }
+    .section-title h1 {
+        font-size: 35px;
+    }
+    .section-title p {
+        font-size: 16px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .section-title {
+        margin: 0;
+      }
+      .section-title p {
+        padding: 0 20px;
+    }
+    .service-box{
+        width: 99%;
+    }
+    .service-box:hover{
+        width: 100%;
+    }
+    .s-logo-1 span {
+        margin-left: 315px;
+    }
+    .service-box:hover .s-logo-1 span {
+        margin-left: 315px;
+    }
+}
+
+
+
+@media (max-width:768px){
+    .header-logo {
+        width: 100%;
+        padding: 10px 0;
+        position: relative;
+    }
+    .logo {
+        margin-left: 60px;
+    }
+    .primary-menu span{
+        font-size: 32px;
+        color: white;
+        position: absolute;
+        right: 51px;
+        top: 20px;
+    }
+    .primary-menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .header-bio {
+        margin-top: 116px;
+        margin-right: -191px;
+    }
+    .header-name p {
+        margin-right: 324px;
+        font-size: 16px;
+    }
+    .header-info p {
+        margin-right: 228px;
+        font-size: 30px;
+    }
+    .header-info span {
+        margin-right: 372px;
+        font-size: 32px;
+    }
+    .header-slogan p {
+        margin-right: 291px;
+        font-size: 16px;
+    }
+    .banner-section {
+        padding-top: 75px;
+    }
+    .logo span {
+        font-size: 26px;
+    }
+    .banner-section {
+        padding-top: 72px;
+    }
+    .section-title {
+      margin: 0;
+    }
+    .section-title h1 {
+        font-size: 30px;
+    }
+    .section-title p {
+        font-size: 14px;
+    }
+    .banner-section {
+        padding-top: 72px;
+        height: 245px;
+    }
+    .section-title p {
+        font-size: 14px;
+        padding: 0 42px;
+    }
+    .about-img {
+        width: 100%;
+        text-align: center;
+    }
+    .about-bio{
+        width: 100%;
+    }
+    .about-bio:hover{
+        width: 100%;
+    }
+    .about-bio p {
+        text-align: center;
+        font-size: 30px;
+        margin-top: 13px;
+margin-bottom: -15px;
+margin-left: 0;
+    }
+    .about-bio a {
+        font-size: 21px;
+        width: 100%;
+        text-align: center;
+        display: inline-block;
+        margin-left: 0;
+    }
+    .about-bio h2 {
+        font-size: 16px;
+        margin-top: 13px;
+        text-align: center;
+    }
+    .e-header h4 {
+        font-size: 30px;
+        padding-top: 25px;
+        margin-bottom: 25px;
+    }
+    .e-content-1 p {
+        font-size: 25px;
+        margin-right: 24px;
+padding: 25px 0;
+    }
+    .e-content-2 p {
+        font-size: 23px;
+    }
+    .photo-section h2 {
+        font-size: 35px;
+        margin-bottom: 50px;
+        margin-top: 40px;
+    }
+    .photo-1 {
+        width: 760px;
+        height: 409px;
+        position: relative;
+    }
+    .photo-text-1 p {
+        width: 632px;
+        margin-top: 160px;
+        text-align: center;
+        padding: 0 65px;
+    }
+    .skill-box {
+        width: 49%;
+    }
+    .s-logo span {
+        margin-left: 130px;
+    }
+    .contact-header h1 {
+        font-size: 25px;
+    }
+    .contact-form {
+        width: 100%;
+    }
+    .contact-address {
+        width: 100%;
+        padding-left: 30px;
+    }
+    .contact-section {
+        padding: 60px 40px;
+    }
+    .contact-address h4 {
+        font-size: 23px;
+    }
+    .contact-address span {
+        font-size: 16px;
+    }
+    .contact-address h3 {
+        font-size: 23px;
+        margin-top: 26px;
+    }
+    .footer-1 p {
+        margin-top: 8px;
+        margin-left: 0px;
+    }
+    .footer-1 {
+        width: 70%;
+    }
+    .footer-2{
+        width: 30%;
+    }
+    .footer-2 p {
+      margin-right: 0;
+    }
+}
+
+@media (max-width:630px){
+    .header-bio {
+        margin-top: 99px;
+        margin-right: -216px;
+    }
+    .header-name p {
+        margin-right: 334px;
+        font-size: 15px;
+    }
+    .header-info p {
+        margin-right: 254px;
+        font-size: 27px;
+    }
+    .header-info span {
+        margin-right: 399px;
+        font-size: 25px;
+    }
+    .header-slogan p {
+        margin-right: 302px;
+        font-size: 15px;
+    }
+    .logo {
+        margin-left: 45px;
+    }
+    .logo span {
+        font-size: 24px;
+    }
+    .section-title p {
+        font-size: 14px;
+        padding: 0 22px;
+        line-height: 24px;
+    }
+    .banner-section {
+        padding-top: 67px;
+        height: 198px;
+    }
+}
+
+
+@media (max-width:520px){
+    .header-bio {
+        margin-top: 99px;
+        margin-right: -224px;
+    }
+    .header-name p {
+        margin-right: 332px;
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .header-info p {
+        margin-right: 278px;
+        font-size: 23px;
+    }
+    .header-info span {
+        margin-right: 384px;
+        font-size: 26px;
+    }
+    .header-slogan p {
+        margin-right: 316px;
+        font-size: 13px;
+    }
+    .banner-section {
+        padding-top: 67px;
+        height: 160px;
+    }
+}
+
+@media (max-width:480px){
+    .header-bio {
+        margin-top: 83px;
+        margin-right: -255px;
+    }
+    .header-name p {
+        margin-right: 341px;
+        font-size: 14px;
+    }
+    .header-info p {
+        margin-right: 287px;
+        font-size: 23px;
+    }
+    .header-info span {
+        margin-right: 393px;
+        font-size: 26px;
+    }
+    .header-slogan p {
+        margin-right: 325px;
+        font-size: 13px;
+    }
+    .logo {
+        margin-left: 18px;
+    }
+    .logo span {
+        font-size: 20px;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .logo i {
+  font-size: 33px;
+    }
+    .banner-section {
+        padding-top: 67px;
+    }
+    .header-name p {
+        font-size: 13px;
+    }
+    .header-info p {
+        margin-right: 294px;
+        font-size: 21px;
+    }
+    .header-info span {
+        font-size: 23px;
+    }
+    .header-slogan p {
+        font-size: 12px;
+    }
+    .primary-menu span {
+        font-size: 29px;
+    }
+    .section-title h1 {
+        font-size: 26px;
+    }
+    .banner-section {
+        padding-top: 67px;
+        height: 157px;
+    }
+}
